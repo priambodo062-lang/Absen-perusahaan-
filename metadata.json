@@ -1,0 +1,6 @@
+{
+  "name": "Absensi Pabrik",
+  "description": "Aplikasi Absensi Karyawan & Buruh Pabrik Berbasis Geofencing",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
